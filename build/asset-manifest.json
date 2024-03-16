@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cf4cae5.css",
+    "main.js": "/static/js/main.834e603c.js",
+    "static/media/mushroom.jpg": "/static/media/mushroom.dcbeb942545b9099e9a1.jpg",
+    "static/media/2.webp": "/static/media/2.e86d0906500197229f2d.webp",
+    "static/media/4.jpg": "/static/media/4.5582bf1ced44f8c79978.jpg",
+    "static/media/overview.avif": "/static/media/overview.91406fe125e5c4cb71c5.avif",
+    "static/media/logo.png": "/static/media/logo.ffeef6984c44c379045d.png",
+    "static/media/1.1.jpeg": "/static/media/1.1.6fc244b318223279b460.jpeg",
+    "static/media/3.jpg": "/static/media/3.57ac2b4365bda7b526f4.jpg",
+    "static/media/PaneerRice.jpeg": "/static/media/PaneerRice.04687a566d9e89acab42.jpeg",
+    "index.html": "/index.html",
+    "main.5cf4cae5.css.map": "/static/css/main.5cf4cae5.css.map",
+    "main.834e603c.js.map": "/static/js/main.834e603c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf4cae5.css",
+    "static/js/main.834e603c.js"
+  ]
+}
